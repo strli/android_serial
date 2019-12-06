@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "from": {
+                        "startLines": "3,35",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,926",
+                        "endLines": "34,66",
+                        "endColumns": "19,19",
+                        "endOffsets": "921,1792"
+                    },
+                    "to": {
+                        "startLines": "2,34",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,925",
+                        "endLines": "33,65",
+                        "endColumns": "19,19",
+                        "endOffsets": "920,1791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,25,26,28",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "116,56,940,1029,1132",
+                        "endLines": "24,3,25,27,29",
+                        "endColumns": "10,59,88,16,18",
+                        "endOffsets": "935,111,1024,1127,1228"
+                    },
+                    "to": {
+                        "startLines": "66,87,88,89,91",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1796,2620,2680,2769,2872",
+                        "endLines": "86,87,88,90,92",
+                        "endColumns": "10,59,88,16,18",
+                        "endOffsets": "2615,2675,2764,2867,2968"
+                    }
+                }
+            ]
+        }
+    ]
+}

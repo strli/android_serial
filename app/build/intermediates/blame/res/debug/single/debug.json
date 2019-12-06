@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_serial_port_preferences.xml.flat",
+        "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\xml\\serial_port_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_loopback.xml.flat",
+        "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\layout\\loopback.xml"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_serialport_test.xml.flat",
+        "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\layout\\serialport_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sending01010101.xml.flat",
+        "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\layout\\sending01010101.xml"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_console.xml.flat",
+        "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\John\\Desktop\\SerialPort_project-master\\app\\src\\main\\res\\drawable\\icon.png"
+    }
+]
